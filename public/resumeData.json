@@ -1,0 +1,173 @@
+{
+  "main": {
+    "name":"Sanam Javidnia",
+    "occupation":"Front-End Developer, Wordpress Developer, Programmer",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"I have a long term interest and passion for the field of IT. I am very enthusiastic to learn about new programming languages and software.I am detail oriented, hard working, responsible, and I have a positive can do attitude.",
+    "email": "sanam.javidnia@gmail.com",
+    "phone": "480-310-8417",
+    "address":{
+      "street":"Birchwood Ln",
+      "city":"Aliso Viejo",
+      "state":"CA",
+      "zip": "92656"
+    },
+    "website": "http://www.techguywebsolutions.com",
+    "resumedownload":"SanamJavidnia-2018.docx",
+    "social":[
+
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+
+      {
+        "name":"github",
+        "url":"http://github.com",
+        "className":"fa fa-github"
+      }
+
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of Shahid Beheshti",
+        "degree":"Master in Graphic Design",
+        "graduated":"April 2007",
+        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+      }
+
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX Designer ",
+        "years":"March 2010 - Present",
+        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"UX Designer",
+        "years":"March 2007 - February 2010",
+        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+      }
+    ],
+    "skills":[
+      {
+        "name":"React",
+        "level":"60%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"95%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"jQuery",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Resume Viewer",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustrator",
+        "tags":"Branding, Web Design",
+        "image":"coffee.jpg",
+        "url":"http://port1.com",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Console",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Design",
+        "tags":"Branding, Web Development",
+        "image":"console.jpg",
+        "url":"http://port2.com",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Judah",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Branding, Web Programming",
+        "image":"judah.jpg",
+        "url":"http://port3.com",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Into The Light",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Design",
+        "image":"into-the-light.jpg",
+        "url":"http://port4.com",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Farmer Boy",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Branding",
+        "tags":"Branding, Web Design",
+        "image":"farmerboy.jpg",
+        "url":"http://port5.com",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Girl",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Graphic Design",
+        "image":"girl.jpg",
+        "url":"http://port6.com",
+        "modal":"#modal-06"
+      },
+      {
+        "title":"Origami",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustration",
+        "tags":"Branding, Illustration",
+        "image":"origami.jpg",
+        "url":"http://port7.com",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"Retrocam",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Photography",
+        "image":"retrocam.jpg",
+        "url":"http://port8.com",
+        "modal":"#modal-08"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"John Doe"
+      },
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"Steve Smith"
+      }
+    ]
+  }
+}
